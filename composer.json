@@ -1,0 +1,19 @@
+{
+    "name": "diplom/bar",
+    "description": "bar site",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Shlyapnikov",
+            "email": "hichhokmail@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Diplom\\Bar\\": "private/"
+        }
+    }
+}
